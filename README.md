@@ -1,0 +1,4 @@
+- 👋 zunpuro、ずんだもん*プログラミングの略称です。
+- 👀 Youtube用のプロジェクト保管用です
+- 🌱 初心者です、優しくして下さい
+- 📫 YoutubeURL：youtube.com/@zunpuro
